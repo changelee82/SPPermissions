@@ -6,7 +6,7 @@ let package = Package(
     name: "SPPermissions",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v11),
+        .iOS(.v10),
         .tvOS(.v11),
         .watchOS(.v3)
     ],
